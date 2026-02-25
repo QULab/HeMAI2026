@@ -1,0 +1,24 @@
+<!-- HeMAI 2026 (Variant 4, top-left) -->
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="360" viewBox="0 0 1400 360" role="img" aria-label="HeMAI 2026 logo">
+  <defs>
+    <style>
+      .wordmark { font-family: Inter, Helvetica, Arial, sans-serif; font-weight: 800; letter-spacing: 0.5px; }
+      .year { font-family: Inter, Helvetica, Arial, sans-serif; font-weight: 600; letter-spacing: 1px; }
+      .tagline { font-family: Inter, Helvetica, Arial, sans-serif; font-weight: 500; letter-spacing: 0.4px; }
+    </style>
+  </defs>
+
+  <!-- Main wordmark -->
+  <text x="80" y="150" class="wordmark" font-size="140" fill="#222222">HeMAI</text>
+
+  <!-- Year (slightly raised, light blue) -->
+  <text x="520" y="100" class="year" font-size="64" fill="#5B86A6">2026</text>
+
+  <!-- Thin divider line -->
+  <line x1="80" y1="195" x2="810" y2="195" stroke="#5B86A6" stroke-width="2" stroke-linecap="round" opacity="0.6"/>
+
+  <!-- Tagline -->
+  <text x="80" y="260" class="tagline" font-size="34" fill="#6B7280">
+    Multimodal Interaction × Generative AI × Health
+  </text>
+</svg>
