@@ -3,9 +3,6 @@ layout: page
 title: "Call for Papers"
 ---
 
-# Call for Papers  
-**HeMAI 2026 – Multimodal Interaction with Generative AI Health Applications**
-
 Generative AI is rapidly transforming the design of interactive health technologies.  
 Large language models, multimodal foundation models, and conversational agents enable new forms of interaction that combine text, speech, vision, and physiological data. At the same time, these systems raise critical questions regarding usability, safety, explainability, trust, and evaluation in sensitive health contexts.
 
