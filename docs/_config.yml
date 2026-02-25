@@ -1,0 +1,12 @@
+title: "HeMAI 2026"
+description: "Multimodal Interaction with Generative AI Health Applications"
+theme: minima
+markdown: kramdown
+plugins:
+  - jekyll-seo-tag
+
+header_pages:
+  - call-for-papers.md
+  - important-dates.md
+  - program.md
+  - organizers.md
