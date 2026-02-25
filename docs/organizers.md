@@ -3,14 +3,21 @@ layout: page
 title: "Organizers"
 ---
 
-# Organizers  
-**HeMAI 2026 – Multimodal Interaction with Generative AI Health Applications**
+Oranizers in alphabetic order:
 
 ## Dr.-Ing. Stefan Hillmann  
 **TU Berlin & DFKI Berlin, Germany**  
 stefan.hillmann@tu-berlin.de  
 
 Stefan Hillmann is a post-doctoral researcher at TU Berlin and guest researcher at DFKI Berlin. His research focuses on AI-driven conversational systems with an emphasis on user experience and usability. His recent work explores the use of large language models in therapeutic chat systems and multimodal dialogue systems for collecting patient-reported outcome measures (PROMs).
+
+---
+
+## Prof. Dr.-Ing. Sebastian Möller  
+**TU Berlin & DFKI Berlin, Germany**  
+sebastian.moeller@tu-berlin.de  
+
+Sebastian Möller is Professor for Quality and Usability at TU Berlin and Scientific Director of the Speech and Language Technology department at DFKI. His research addresses spoken dialogue systems, speech technologies, and human-centered AI evaluation. He served as President of the International Speech Communication Association (ISCA) from 2021–2023.
 
 ---
 
@@ -36,10 +43,4 @@ roland.roller@dfki.de
 
 Roland Roller is a senior researcher at the German Research Center for Artificial Intelligence (DFKI), Berlin. His work focuses on natural language processing and machine learning for medical applications. His research interests include multimodal machine learning, clinical decision support systems, LLM-based agents, and privacy-preserving methods.
 
----
 
-## Prof. Dr.-Ing. Sebastian Möller  
-**TU Berlin & DFKI Berlin, Germany**  
-sebastian.moeller@tu-berlin.de  
-
-Sebastian Möller is Professor for Quality and Usability at TU Berlin and Scientific Director of the Speech and Language Technology department at DFKI. His research addresses spoken dialogue systems, speech technologies, and human-centered AI evaluation. He served as President of the International Speech Communication Association (ISCA) from 2021–2023.
