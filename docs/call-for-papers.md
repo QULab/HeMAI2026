@@ -41,7 +41,7 @@ Details on formatting and submission procedures will be announced soon.
 
 ## Important Dates
 
-To be announced.
+See [Important Dates]({{ '/important-dates/' | relative_url }}).
 
 ---
 
