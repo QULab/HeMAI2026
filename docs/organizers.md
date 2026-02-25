@@ -3,7 +3,7 @@ layout: page
 title: "Organizers"
 ---
 
-Oranizers in alphabetic order:
+(in alphabetical order )
 
 ## Dr.-Ing. Stefan Hillmann  
 **TU Berlin & DFKI Berlin, Germany**  
@@ -42,5 +42,6 @@ Lisa Raithel is a post-doctoral researcher at TU Berlin and guest researcher at 
 roland.roller@dfki.de  
 
 Roland Roller is a senior researcher at the German Research Center for Artificial Intelligence (DFKI), Berlin. His work focuses on natural language processing and machine learning for medical applications. His research interests include multimodal machine learning, clinical decision support systems, LLM-based agents, and privacy-preserving methods.
+
 
 
