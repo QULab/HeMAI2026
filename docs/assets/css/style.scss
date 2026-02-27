@@ -21,6 +21,34 @@
   text-transform: uppercase;
 }
 
+.organizers-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 2rem;
+  margin-top: 1.5rem;
+}
+
+.organizer-card {
+  text-align: center;
+}
+
+.organizer-card img.organizer-photo {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  object-fit: cover;
+  display: block;
+  margin: 0 auto 0.75rem;
+}
+
+.organizer-card h2 {
+  margin-bottom: 0.25rem;
+}
+
+.organizer-card p {
+  margin-top: 0.15rem;
+}
+
 @media screen and (max-width: 600px) {
   .site-header .workshop-header-image {
     max-width: 80%;
