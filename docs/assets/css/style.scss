@@ -3,3 +3,27 @@
 @import "{{ site.theme }}";
 
 .page-content { max-width: 980px; }
+
+.site-header .workshop-header-image {
+  display: block;
+  max-width: 360px;
+  width: 100%;
+  height: auto;
+  margin: 0.75rem auto 1.25rem;
+}
+
+.site-header .site-subtitle {
+  margin: 0 0 1.25rem;
+  text-align: center;
+  font-size: 1.5rem !important;
+  font-weight: 700 !important;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+}
+
+@media screen and (max-width: 600px) {
+  .site-header .workshop-header-image {
+    max-width: 80%;
+    margin-bottom: 1rem;
+  }
+}
