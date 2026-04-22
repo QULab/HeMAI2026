@@ -3,9 +3,8 @@ layout: page
 title: "Important Dates"
 ---
 
-Dates will be announced soon.
 
-- Paper submission: TBA  
-- Notification: TBA  
-- Camera-ready: TBA  
-- Workshop day: TBA
+- Paper submission: July 6, 2026  (AoE)
+- Acceptance Notification: July 29, 2026
+- Camera-ready deadline: August 1, 2026 (AoE)
+- In-person workshop at ICMI: October 9, 2026
