@@ -41,7 +41,7 @@ Details on formatting and submission procedures will be announced soon.
 
 ## Important Dates
 
-See [Important Dates]({{ '/important-dates/' | relative_url }}).
+See [Important Dates](https://qulab.github.io/HeMAI2026/important-dates.html).
 
 ---
 
