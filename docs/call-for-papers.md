@@ -3,10 +3,9 @@ layout: page
 title: "Call for Papers"
 ---
 
-Generative AI is rapidly transforming the design of interactive health technologies.  
-Large language models, multimodal foundation models, and conversational agents enable new forms of interaction that combine text, speech, vision, and physiological data. At the same time, these systems raise critical questions regarding usability, safety, explainability, trust, and evaluation in sensitive health contexts.
+Generative AI is changing how people interact with health technology. Large language models, multimodal foundation models, and conversational agents make it possible to combine text, speech, vision, and physiological signals in ways that weren't practical a few years ago, and they raise difficult questions about usability, safety, explainability, trust, and evaluation when the stakes involve someone's health.
 
-**HeMAI 2026** invites contributions that explore how multimodal interaction can be designed, implemented, and evaluated for generative AI–based health applications.
+**HeMAI 2026** brings HCI, AI, and health researchers together to work through those questions. We welcome contributions on multimodal interaction techniques for health systems, conversational and embodied agents in healthcare, integration of text/speech/vision/biosignals, explainability and transparency, human-AI collaboration, safety and trust, ethical and regulatory issues, evaluation methodologies, and real-world deployments.
 
 ---
 
@@ -30,12 +29,13 @@ Topics include (but are not limited to):
 
 We welcome:
 
-- Full research papers  
-- Short papers / work-in-progress  
-- Position papers  
-- Demo and system papers  
+- Full research papers (up to 8 pages, excluding references)
+- Short / work-in-progress / position / demo papers (up to 4 pages, excluding references)
 
-Details on formatting and submission procedures will be announced soon.
+Submissions follow [ICMI 2026 author guidelines](https://icmi.acm.org/2026/guidelines/)
+Papers rejected from the main ICMI track are welcome if they fit the scope.
+
+Workshop papers will be indexed by ACM Digital Library in an adjunct proceedings to ICMI 2026.
 
 ---
 
