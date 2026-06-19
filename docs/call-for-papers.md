@@ -37,6 +37,15 @@ Papers rejected from the main ICMI track are welcome if they fit the scope.
 
 Workshop papers will be indexed by ACM Digital Library in an adjunct proceedings to ICMI 2026.
 
+[Submit now by PCS](https://new.precisionconference.com/submissions)
+
+There select:
+
+* Society: SIGCHI
+* Conference/Journal: ICMI 2026
+* Track: ICMI Workshop 2026: HeMAI
+
+
 ---
 
 ## Important Dates
