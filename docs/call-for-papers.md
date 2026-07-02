@@ -50,7 +50,7 @@ There select:
 
 ## Important Dates
 
-See [Important Dates](https://qulab.github.io/HeMAI2026/important-dates.html).
+Submission deadline was extended, see [Important Dates](https://qulab.github.io/HeMAI2026/important-dates.html).
 
 ---
 
