@@ -56,9 +56,33 @@
   text-align: left;
 }
 
+/* The schedule is wide; let it scroll inside its own box rather than the page. */
+.program-table {
+  overflow-x: auto;
+  margin-bottom: 30px;
+}
+
+.program-table table {
+  margin-bottom: 0;
+  font-size: 0.9rem;
+}
+
+.program-table th,
+.program-table td {
+  vertical-align: top;
+}
+
+.program-table td:first-child {
+  white-space: nowrap;
+}
+
 @media screen and (max-width: 600px) {
   .site-header .workshop-header-image {
     max-width: 80%;
     margin-bottom: 1rem;
+  }
+
+  .program-table table {
+    font-size: 0.8rem;
   }
 }

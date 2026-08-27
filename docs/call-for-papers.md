@@ -3,6 +3,8 @@ layout: page
 title: "Call for Papers"
 ---
 
+**The call for papers is closed.** Submissions closed on July 13, 2026, and the workshop takes place on October 9, 2026 in Naples, Italy — see the [program]({{ "/program.html" | relative_url }}). The call is kept below for reference.
+
 Generative AI is changing how people interact with health technology. Large language models, multimodal foundation models, and conversational agents make it possible to combine text, speech, vision, and physiological signals in ways that weren't practical a few years ago, and they raise difficult questions about usability, safety, explainability, trust, and evaluation when the stakes involve someone's health.
 
 **HeMAI 2026** brings HCI, AI, and health researchers together to work through those questions. We welcome contributions on multimodal interaction techniques for health systems, conversational and embodied agents in healthcare, integration of text/speech/vision/biosignals, explainability and transparency, human-AI collaboration, safety and trust, ethical and regulatory issues, evaluation methodologies, and real-world deployments.
@@ -32,25 +34,19 @@ We welcome:
 - Full research papers (up to 8 pages, excluding references)
 - Short / work-in-progress / position / demo papers (up to 4 pages, excluding references)
 
-Submissions follow [ICMI 2026 author guidelines](https://icmi.acm.org/2026/guidelines/)
-Papers rejected from the main ICMI track are welcome if they fit the scope.
+Submissions followed the [ICMI 2026 author guidelines](https://icmi.acm.org/2026/guidelines/).
+Papers rejected from the main ICMI track were welcome if they fit the scope.
 
 Workshop papers will be indexed by ACM Digital Library in an adjunct proceedings to ICMI 2026.
 
-[Submit now by PCS](https://new.precisionconference.com/submissions)
-
-There select:
-
-* Society: SIGCHI
-* Conference/Journal: ICMI 2026
-* Track: ICMI Workshop 2026: HeMAI
+Submission via PCS is closed.
 
 
 ---
 
 ## Important Dates
 
-Submission deadline was extended, see [Important Dates](https://qulab.github.io/HeMAI2026/important-dates.html).
+See [Important Dates]({{ "/important-dates.html" | relative_url }}).
 
 ---
 
@@ -62,4 +58,4 @@ The workshop aims to:
 - Identify research challenges and future directions  
 - Encourage responsible innovation in multimodal generative health AI  
 
-We look forward to your contributions.
+We look forward to seeing you in Naples.
