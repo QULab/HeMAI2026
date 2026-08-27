@@ -1,8 +1,11 @@
 ---
 ---
-@import "{{ site.theme }}";
+// minima centres one .wrapper per section and defaults it to 800px. Widening
+// that variable keeps header and page content on the same grid; capping
+// .page-content instead left it flush against the viewport edge.
+$content-width: 980px;
 
-.page-content { max-width: 980px; }
+@import "{{ site.theme }}";
 
 .site-header .workshop-header-image {
   display: block;

@@ -1,0 +1,4 @@
+source "https://rubygems.org"
+
+# Mirrors what GitHub Pages runs, so a local build matches the deployed site.
+gem "github-pages", group: :jekyll_plugins

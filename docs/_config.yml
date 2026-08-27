@@ -1,3 +1,8 @@
+# GitHub Pages injects these for project sites, but naming them keeps a
+# local build identical to the deployed one.
+url: "https://qulab.github.io"
+baseurl: "/HeMAI2026"
+
 title: "HeMAI 2026"
 description: "Multimodal Interaction with Generative AI Health Applications"
 theme: minima
