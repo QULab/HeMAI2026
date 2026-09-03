@@ -78,7 +78,7 @@ title: "Organizers"
 - **Aoi Minamoto** — Indiana University, USA
 - **Wolfgang Minker** — Ulm University, Germany
 - **Anusha Mukka** — Meta Platforms Inc, USA
-- **Aurelie Neveol** — CNRS, Université Paris-Saclay, France
+- **Aurélie Névéol** — CNRS, Université Paris-Saclay, France
 - **Tomohiro Nishiyama**
 - **Florian Pecune** — CNRS SANPSY, France
 - **Nattawud Phacharintanakul** — ExxonMobil, USA
