@@ -59,6 +59,19 @@ $content-width: 980px;
   text-align: left;
 }
 
+/* 41 names read better in columns than as one long single-file list. */
+.committee-list ul {
+  column-width: 420px;
+  column-gap: 2.5rem;
+  list-style: none;
+  margin-left: 0;
+}
+
+.committee-list li {
+  break-inside: avoid;
+  margin-bottom: 0.4rem;
+}
+
 /* The schedule is wide; let it scroll inside its own box rather than the page. */
 .program-table {
   overflow-x: auto;

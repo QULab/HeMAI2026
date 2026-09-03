@@ -49,3 +49,50 @@ title: "Organizers"
 
 </div>
 
+## Program Committee
+
+<div class="committee-list" markdown="1">
+
+- **Khushan Adatiya** — Google, USA
+- **Jan Alexandersson** — DFKI, Germany
+- **Anurag Bihani** — SLB, USA
+- **Matthias Busch** — Otto von Guericke University Magdeburg, Germany
+- **Francisco Maria Calisto** — IST, Lisbon University, Portugal
+- **Edward Choi** — KAIST, Republic of Korea
+- **Shasvat Desai** — Walmart Global Tech, USA
+- **Margi Engineer** — Clemson University, USA
+- **Johann Frei** — University of Augsburg, Germany
+- **Patrick Gebhard** — DFKI, Germany
+- **Santhosh Guntupalli** — Independent Researcher, USA
+- **Heinz Handels** — DFKI, Germany
+- **Marie Hoffmann** — Charité – University Medicine Berlin and German Heart Center Charité, Germany
+- **Xin Hu** — University of Michigan, USA
+- **Saurabh Kansara** — Amazon, USA
+- **Fardin Khan** — Louisiana State University, USA
+- **Yeonjae Kim** — University of Utah, USA
+- **Preeti Kosaraju** — Carnegie Mellon University, USA
+- **Matthias Kraus** — Human-Centered Artificial Intelligence, Augsburg University, Germany
+- **Priyanka Kuvalekar** — Microsoft, USA
+- **Christina Lohr**
+- **Nireesha Mandala** — ServiceNow, USA
+- **Aoi Minamoto** — Indiana University, USA
+- **Wolfgang Minker** — Ulm University, Germany
+- **Anusha Mukka** — Meta Platforms Inc, USA
+- **Aurelie Neveol** — CNRS, Université Paris-Saclay, France
+- **Tomohiro Nishiyama**
+- **Florian Pecune** — CNRS SANPSY, France
+- **Nattawud Phacharintanakul** — ExxonMobil, USA
+- **Lisa Raithel** — Technische Universität Berlin, Germany
+- **Stefan Schaffer** — DFKI, Germany
+- **Tanja Schneeberger** — DFKI, Germany
+- **Jyoti Sondagar** — Parsons School of Design, USA
+- **Nambi Srivatsav** — Arizona State University, USA
+- **Naveen Suresh** — Teragonia, USA
+- **Shoko Wakamiya** — Nara Institute of Science and Technology, Japan
+- **Yuqing Wang** — Microsoft, USA
+- **Svea Wilkending** — Charité – IKIM, Germany
+- **Peifeng Xiao** — Autel Robotics, China
+- **Jan Zöllick**
+- **Pierre Zweigenbaum** — CNRS, Université Paris-Saclay, France
+
+</div>
