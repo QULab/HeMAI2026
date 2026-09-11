@@ -14,7 +14,7 @@ The workshop takes place on **Thursday, October 9, 2026** in Naples, Italy, as p
 | 9:00 – 9:10 | Intro | | Program |
 | 9:10 – 10:00 | Keynote | tba | Program |
 | 10:00 – 10:30 | Official Break | | Break |
-| 10:30 – 11:00 | Multimodal Depression Detection Varies with Differences in Context and Demographics | Maneesh Bilalpur; Saurabh Hinduja; Sonish Sivarajkumar; Nicholas Allen; Yanshan Wang; Itir Onal Ertugrul; Jeff Cohn | Talk |
+| 10:30 – 11:00 | Multimodal Depression Detection Varies with Cross-Dataset Differences | Maneesh Bilalpur; Saurabh Hinduja; Sonish Sivarajkumar; Nicholas Allen; Yanshan Wang; Itir Onal Ertugrul; Jeff Cohn | Talk |
 | 11:00 – 11:30 | Scenario-Adaptive Multimodal Emotion Recognition for Supporting Affect Perception in Doctor–Patient Consultations | Zhaolong Wang; Aoi Taguchi; Homura Kawamura; Tomohumi Miura; Yuka Maeda; Yukihiko Okada; Keiichi Zempo | Talk |
 | 11:30 – 12:00 | Retrieval-Augmented Personalization with Foundation Models for Wearable Stress Detection | Louis Simon; Mohamed Chetouani | Talk |
 | 12:00 – 12:30 | Buffer / Free Time / Poster Preparation | | Break |
