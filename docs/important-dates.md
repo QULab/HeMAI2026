@@ -3,7 +3,7 @@ layout: page
 title: "Important Dates"
 ---
 
-The call for papers is closed. The workshop takes place on **Thursday, October 9, 2026** in Naples, Italy — see the [program]({{ "/program.html" | relative_url }}).
+The call for papers is closed. The workshop takes place on **Friday, October 9, 2026** in Naples, Italy — see the [program]({{ "/program.html" | relative_url }}).
 
 ## Workshop
 

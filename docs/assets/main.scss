@@ -59,6 +59,24 @@ $content-width: 980px;
   text-align: left;
 }
 
+/* Keynote portrait, added once the photo is in assets/. Floated so the
+   abstract wraps beside it; stacked and centred on narrow screens. */
+/* Contain the floated portrait so the bio heading below starts on a new line. */
+.keynote::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.keynote-photo {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+  float: left;
+  margin: 0.25rem 1.5rem 0.75rem 0;
+}
+
 /* 41 names read better in columns than as one long single-file list. */
 .committee-list ul {
   column-width: 420px;
@@ -100,5 +118,11 @@ $content-width: 980px;
 
   .program-table table {
     font-size: 0.8rem;
+  }
+
+  .keynote-photo {
+    float: none;
+    display: block;
+    margin: 0 auto 1rem;
   }
 }
